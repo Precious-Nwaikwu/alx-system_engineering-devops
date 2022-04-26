@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go-rw
+chmod nnn hello
